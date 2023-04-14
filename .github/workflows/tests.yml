@@ -2,7 +2,7 @@ name: Testes pull request
 
 on:
   pull_request:
-    branches: [feat/*, main]
+    branches: [main]
     types:
       - opened
 
