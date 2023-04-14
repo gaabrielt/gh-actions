@@ -14,6 +14,7 @@ function App() {
         <button onClick={() => setIcon(!isVisible)}>
           {isVisible ? "Esconder" : "Exibir"}
         </button>
+        <p>14/04/23</p>
       </header>
     </div>
   );
